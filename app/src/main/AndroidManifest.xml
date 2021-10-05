@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TestingAndroid">
         <activity
+            android:name=".DemoForGitActivity"
+            android:exported="true" />
+        <activity
             android:name=".DisplayActivity"
             android:exported="true" />
         <activity
